@@ -49,6 +49,8 @@ Explore the four pillars of the Buidlend protocol. Each division is engineered t
 
 ### 📚 Buidlend Learn
 
+<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" />
+
 **Empowering the Next Generation of Builders**
 
   * **Technical Deep Dives:** Comprehensive resources on everything from configuring Arch Linux and Hyprland to mastering TypeScript 5 and Bun.
