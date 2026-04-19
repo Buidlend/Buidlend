@@ -1,5 +1,5 @@
 
-# 🟩 B U I D L E N D 🟩
+# B U I D L E N D 
 
 **The Intersection of Immersive Design, Gaming, and Decentralized Architecture.**
 
@@ -61,4 +61,10 @@ Explore the four pillars of the Buidlend protocol. Each division is engineered t
 
 *Built for the Decentralized Future.* 🔋
 
+## 🌟 Star History
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=rahuldkjain/github-profile-readme-generator&type=Date&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=rahuldkjain/github-profile-readme-generator&type=Date" />
+  <img alt="GPRG Star History Chart" src="https://api.star-history.com/svg?repos=rahuldkjain/github-profile-readme-generator&type=Date" />
+</picture>
 
