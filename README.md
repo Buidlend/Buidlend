@@ -10,9 +10,6 @@ Welcome to the digital frontier. **Buidlend** is a sprawling ecosystem built for
 Initiated by **hackerio**
 
 
-
-<br>
-
 ## 🪐 The Core Ecosystem
 
 Explore the four pillars of the Buidlend protocol. Each division is engineered to push the boundaries of what is possible on the modern web and the Ethereum Virtual Machine.
@@ -49,7 +46,6 @@ Explore the four pillars of the Buidlend protocol. Each division is engineered t
   * **Smart Contract Security:** Education on network forensics, bug bounty hunting, and secure coding practices.
   * **Open Source Knowledge:** A centralized hub for tutorials, reverse engineering breakdowns, and system architecture guides.
 
-<br>
 
 -----
 
@@ -62,7 +58,6 @@ Explore the four pillars of the Buidlend protocol. Each division is engineered t
 | **Frontend** | TypeScript 5, Bun, Yarn (PnP), 3D Web Rendering |
 | **Infrastructure** | Linux (Arch), Cloudflare, Vercel, High-Performance Computing |
 
-<br>
 
 *Built for the Decentralized Future.* 🔋
 
