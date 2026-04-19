@@ -27,6 +27,8 @@ Explore the four pillars of the Buidlend protocol. Each division is engineered t
 
 **Redefining Value Transfer & Transaction Mechanics**
 
+ <img src="https://github.com/akshitagupta15june/akshitagupta15june/blob/master/octocat.jpeg" height=300 width=300>
+
   * **Gas Abstraction:** Pioneering systems like the Gas-Spark Protocol to replace traditional transaction fees with Proof-of-Work effort.
   * **DeFi Infrastructure:** Building robust, zero-friction peer-to-peer payment architectures.
   * **Optimized Routing:** Engineering maximum capital efficiency within decentralized financial systems.
