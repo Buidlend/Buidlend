@@ -1,4 +1,3 @@
-\<div align="center"\>
 
 # 🟩 B U I D L E N D 🟩
 
@@ -10,7 +9,7 @@ Welcome to the digital frontier. **Buidlend** is a sprawling ecosystem built for
 
 Initiated by **hackerio**
 
-\</div\>
+
 
 <br>
 
@@ -54,7 +53,6 @@ Explore the four pillars of the Buidlend protocol. Each division is engineered t
 
 -----
 
-\<div align="center"\>
 
 ### ⚙️ Engine Room & Tech Stack
 
@@ -68,4 +66,4 @@ Explore the four pillars of the Buidlend protocol. Each division is engineered t
 
 *Built for the Decentralized Future.* 🔋
 
-\</div\>
+
